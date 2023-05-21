@@ -1,0 +1,2 @@
+You must put the script in "scripts" folder.
+Have fun.
